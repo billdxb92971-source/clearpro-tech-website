@@ -144,3 +144,6 @@ footer { padding: 4rem 0 2rem; }
     .hero-image { max-width: 460px; margin: 2rem auto 0; }
     .image-wrapper { max-width: 500px; margin: 0 auto; }
 }
+
+.footer-logo { display: inline-block; }
+.footer-logo-img { height: 48px; width: auto; display: block; filter: brightness(0) invert(1); }
